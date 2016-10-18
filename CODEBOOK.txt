@@ -1,3 +1,18 @@
+For each of the variable:
+  "subject": int: 30 people who joined the experiments, aged from 19-48. They were labeled from 1 to 30
+  "activity": factor: levels from 1-6 corresponding to WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
+  "-X": info on X-axis 
+  "-Y": info on Y-axis
+  "-Z": info on Z-axis
+  "time..." : recording time
+  "frequency...": frequency after Forrier transform on time domain signals
+  "...gyro...": data recorded by gyro device
+  "...bodyacc...": data recorded by accelerometer.
+  
+  
+
+
+
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
@@ -24,4 +39,7 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
-## For each of the variable
+
+  
+  
+  
