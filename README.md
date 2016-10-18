@@ -15,7 +15,7 @@ For more details about the raw data, please visit this link: <a herf = http://ar
 
 
 The <a href=https://github.com/wangqian2149185/CourseraCleanData_Assignment/blob/master/tidyData.txt>"tidyData.txt"</a> 
-is a txt file that contains the result by running the "run_analysis.R"
+is a txt file that contains the result by running the <a href= https://github.com/wangqian2149185/CourseraCleanData_Assignment/blob/master/run_analysis.R>"run_analysis.R"</a>. 
     
 
 The <a href= https://github.com/wangqian2149185/CourseraCleanData_Assignment/blob/master/features_info.txt>"features_info.txt"</a> and will show more details about the variables.
