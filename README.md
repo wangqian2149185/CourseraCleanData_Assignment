@@ -18,7 +18,7 @@ The <a href=https://github.com/wangqian2149185/CourseraCleanData_Assignment/blob
 is a txt file that contains the result by running the "run_analysis.R"
     
 
-The <a herf= https://github.com/wangqian2149185/CourseraCleanData_Assignment/blob/master/features_info.txt>"features_info.txt"</a> and will show more details about the variables.
+The <a href= https://github.com/wangqian2149185/CourseraCleanData_Assignment/blob/master/features_info.txt>"features_info.txt"</a> and will show more details about the variables.
 
 
-More info please visit <a herf= https://github.com/wangqian2149185/CourseraCleanData_Assignment>"Codebook.txt"</a>.
+More info please visit <a href= https://github.com/wangqian2149185/CourseraCleanData_Assignment>"Codebook.txt"</a>.
